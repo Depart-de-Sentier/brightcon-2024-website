@@ -48,7 +48,12 @@
         problem or an answer for you.
       </p>
     </div>
-    <p> <b> Please get in touch with the organizers to find out about the sponsoring fees. </b></p>
+    <p>
+      <b>
+        Please get in touch with the organizers to find out about the sponsoring
+        fees.
+      </b>
+    </p>
   </div>
   <template></template>
 </template>

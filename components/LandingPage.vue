@@ -11,9 +11,7 @@
           <div class="row is-horizontal-align">
             <span class="text-dark tag is-large">September</span>
             <span class="text-dark tag is-large">23-27</span>
-            <span class="text-dark tag is-large"
-              >Hamburg, Germany</span
-            >
+            <span class="text-dark tag is-large">Hamburg, Germany</span>
           </div>
           <br />
           <div class="row is-horizontal-align">
@@ -68,9 +66,7 @@
       </div>
     </div>
     <div class="row col is-vertical-align is-horizontal-align">
-      <NuxtLink to="/programme" class="button secondary">
-        Programme
-      </NuxtLink>
+      <NuxtLink to="/programme" class="button secondary"> Programme </NuxtLink>
     </div>
   </div>
 </template>

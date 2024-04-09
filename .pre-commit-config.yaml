@@ -1,0 +1,9 @@
+---
+repos:
+  - repo: local
+    hooks:
+      - id: prettier
+        name: prettier
+        entry: prettier
+        language: system
+        files: \.(css|ts|tsx|vue)$

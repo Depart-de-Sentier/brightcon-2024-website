@@ -7,7 +7,7 @@
         <div v-for="(r, rindex) in g.routes" :key="rindex">
           <template v-if="r.external">
             -
-	    <!-- Activate when the togglMenu and menu are ready 
+            <!-- Activate when the togglMenu and menu are ready 
             <a :href="r.url" target="_blank" @click.native="toggleMenu">
 	    -->
             <a :href="r.url" target="_blank">
@@ -16,7 +16,7 @@
           </template>
           <template v-else>
             -
-	    <!-- Activate when the togglMenu and menu are ready 
+            <!-- Activate when the togglMenu and menu are ready 
             <NuxtLink :to="r.url" @click.native="toggleMenu">
 	    -->
             <NuxtLink :to="r.url">
@@ -69,29 +69,29 @@ const routesGroup = [
         external: false,
       },
       /*{*/
-        /*label: "Whats new in 2023",*/
-        /*url: "/WhatsNewIn2022",*/
-        /*external: false,*/
+      /*label: "Whats new in 2023",*/
+      /*url: "/WhatsNewIn2022",*/
+      /*external: false,*/
       /*},*/
       /*{*/
-        /*label: "Speakers",*/
-        /*url: "/speakers",*/
-        /*external: false,*/
+      /*label: "Speakers",*/
+      /*url: "/speakers",*/
+      /*external: false,*/
       /*},*/
       /*{*/
-        /*label: "Awards",*/
-        /*url: "/awards",*/
-        /*external: false,*/
+      /*label: "Awards",*/
+      /*url: "/awards",*/
+      /*external: false,*/
       /*},*/
       /*{*/
-        /*label: "What Happened in 2022",*/
-        /*url: "/whathap",*/
-        /*external: false,*/
+      /*label: "What Happened in 2022",*/
+      /*url: "/whathap",*/
+      /*external: false,*/
       /*},*/
       /*{*/
-        /*label: "2022 Photos",*/
-        /*url: "/Photos",*/
-        /*external: false,*/
+      /*label: "2022 Photos",*/
+      /*url: "/Photos",*/
+      /*external: false,*/
       /*},*/
     ],
   },
@@ -109,48 +109,48 @@ const routesGroup = [
         external: false,
       },
       /*{*/
-        /*label: "Health Protection",*/
-        /*url: "/HealthProtection",*/
-        /*external: false,*/
+      /*label: "Health Protection",*/
+      /*url: "/HealthProtection",*/
+      /*external: false,*/
       /*},*/
     ],
   },
   /*{*/
-    /*name: "Hackathon",*/
-    /*routes: [*/
-      /*{*/
-        /*label: "Details",*/
-        /*url: "/hackathon",*/
-        /*external: false,*/
-      /*},*/
-      /*{*/
-        /*label: "Dribdat",*/
-        /*url: "https://hack.brightcon.link",*/
-        /*external: true,*/
-      /*},*/
-      /*{*/
-        /*label: "Gitter",*/
-        /*url: "https://gitter.im/brightway-lca/brightcon",*/
-        /*external: true,*/
-      /*},*/
-    /*],*/
+  /*name: "Hackathon",*/
+  /*routes: [*/
+  /*{*/
+  /*label: "Details",*/
+  /*url: "/hackathon",*/
+  /*external: false,*/
+  /*},*/
+  /*{*/
+  /*label: "Dribdat",*/
+  /*url: "https://hack.brightcon.link",*/
+  /*external: true,*/
+  /*},*/
+  /*{*/
+  /*label: "Gitter",*/
+  /*url: "https://gitter.im/brightway-lca/brightcon",*/
+  /*external: true,*/
+  /*},*/
+  /*],*/
   /*},*/
   {
     /*name: "Contest",*/
     /*routes: [*/
-      /*{*/
-        /*label: "Contest",*/
-        /*url: "/contest",*/
-        /*external: false,*/
-      /*},*/
-      /*{*/
-        /*label: "Results",*/
-        /*url: "/contest-results",*/
-        /*external: false,*/
-      /*},*/
+    /*{*/
+    /*label: "Contest",*/
+    /*url: "/contest",*/
+    /*external: false,*/
+    /*},*/
+    /*{*/
+    /*label: "Results",*/
+    /*url: "/contest-results",*/
+    /*external: false,*/
+    /*},*/
     /*],*/
-  /*},*/
-  /*{*/
+    /*},*/
+    /*{*/
     name: "Legal",
     routes: [
       {

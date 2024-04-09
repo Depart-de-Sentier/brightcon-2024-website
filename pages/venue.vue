@@ -4,7 +4,24 @@
     <h2>Location</h2>
     Brightcon 2024 will take place in the premises of the ZAL TechCenter of
     <a href="https://www.dlr.de">German Aerospace Center</a> in <b>Hamburg</b>,
-    Germany.
+    Germany.a
+
+    <div container>
+      <a href="https://zal.aero/en/directions/">
+        <div class="row">
+          <div class="col-3">
+            <div class="card">
+              <p>ZAL TechCenter</p>
+              <p>Hein-Saß-Weg 22</p>
+              <p>21129 Hamburg, Germany</p>
+	      <p>+49 40 248 595 0</p>
+	      <p>info@zal.aero</p>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+
     <!--
 
     <h3>Conference location</h3>

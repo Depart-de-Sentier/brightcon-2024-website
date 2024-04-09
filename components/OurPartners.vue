@@ -1,7 +1,6 @@
 <script setup lang="ts">
 const partnersEnabled = false;
-const partners = [
-];
+const partners = [];
 </script>
 <template>
   <div class="background">

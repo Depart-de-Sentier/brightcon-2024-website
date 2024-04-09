@@ -17,7 +17,9 @@
       </div>
       -->
       <div class="row col is-horizontal-align is-vertical-align">
-        <a href="" class="button primary disabled">Registration will open soon</a>
+        <a href="" class="button primary disabled"
+          >Registration will open soon</a
+        >
       </div>
 
       <!--

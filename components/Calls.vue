@@ -3,27 +3,21 @@
     <div>
       <h1>Calls</h1>
       <h2>Call for posters</h2>
-      If you have something to show in the form of a poster, bring the poster with you !
+      If you have something to show in the form of a poster, bring the poster
+      with you !
       <h2>Call for sessions</h2>
 
       <p>
         You can submit your own Brightcon 2024 idea for an interactive session:
         workshop, presentation, you name it.
       </p>
-      <p>
-        Please use the dedicated
-        <a
-          href="https://docs.google.com/"
-          >Google form
-        </a>
-        to submit your idea
-      </p>
+      <p>Stay tuned for the upcoming call and details.</p>
     </div>
     <div>
-        <h2>
-          Call for a (student) volunteer to set up the virtual platform for this
-          years’ hybrid Brightcon
-        </h2>
+      <h2>
+        Call for a (student) volunteer to set up the virtual platform for this
+        years’ hybrid Brightcon
+      </h2>
       <details open>
         <p>
           We are dedicated to make Brightcon 2024 a successful hybrid conference

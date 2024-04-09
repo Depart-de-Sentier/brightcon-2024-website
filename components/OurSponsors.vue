@@ -4,13 +4,9 @@ const goldSponsorsEnabled = true;
 const nickelSponsorsEnabled = true;
 const sponsorsTitle = "Thanks to our Sponsors!";
 const palladiumSponsors = [{}];
-const goldSponsors = [{
-}];
+const goldSponsors = [{}];
 const silverSponsors = [{}];
-const nickelSponsors = [
-  {
-  },
-];
+const nickelSponsors = [{}];
 </script>
 <template>
   <div class="background">

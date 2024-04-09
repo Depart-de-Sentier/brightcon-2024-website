@@ -40,5 +40,4 @@
     law and belongs to the exclusive Swiss jurisdictions.
   </div>
 </template>
-<script lang="ts">
-</script>
+<script lang="ts"></script>

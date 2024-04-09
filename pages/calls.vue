@@ -1,3 +1,3 @@
 <template>
-	<Calls />
+  <Calls />
 </template>
