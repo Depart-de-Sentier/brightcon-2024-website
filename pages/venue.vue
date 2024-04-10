@@ -58,7 +58,7 @@
     off the grid. Nevertheless it's well connected to Hamburg through ferry and
     the big tunnle under the Elbe. Once landed in Finkenwerder it's a 10 minute
     walk to the Center itself (alongside the canal, it's cute). By ferry: We
-    suggest Ferry 64, starting at S1, S3, U3 - Landungsbrücken, departing in a
+    suggest Ferry 62, starting at S1, S3, U3 - Landungsbrücken, departing in a
     15-minute frequent. It's a 30-minute ride on the Elbe, with stops at
     Fischmarkt, Dockland and Övelgönne (better option for those coming from the
     Altona station). By bus/car: With wheels it's the Bus 150 starting in Altona
