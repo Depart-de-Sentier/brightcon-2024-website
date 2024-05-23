@@ -6,5 +6,7 @@
     <br />
     <Testimonials />
     <br />
+    <PrevCar />
+    <br />
   </div>
 </template>

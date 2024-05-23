@@ -50,7 +50,7 @@ const routes = [
       },
       {
         label: "Whats new in 2024",
-        url: "/WhatsNewIn2022",
+        url: "/WhatsNewIn2024",
         external: false,
       },
       {

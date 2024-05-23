@@ -2,5 +2,5 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['chota'],
-  modules: ["@nuxt/image"]
+  modules: ["@nuxt/image", "vue3-carousel-nuxt"]
 })
