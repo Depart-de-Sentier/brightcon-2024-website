@@ -74,6 +74,15 @@ const quotes = ref([
     linkedIn: "https://www.linkedin.com/in/syoussry/",
     github: "https://github.com/selimyoussry",
   },
+  {
+    name: "Amelie MÜLLER",
+    designation: "PhD Candidate, Industrial Ecology at Leiden University and VITO",
+    reviewtitle: "",
+    imgUrl: "/images/participants/amelie-muller.jpg",
+    reviewMore:"Attending Brightcon 2023 has been fantastic as it is the meeting place for LCA researchers working with open-source tools in python, such as Brightway. In fact, one of my current projects has been significantly inspired by the discussions at Brightcon and I met my current collaborators there. Brightcon is not your usual conference – it’s very hands-on, low-hierarchy and living its sustainable mission by serving only vegetarian/vegan food. I’m highly looking forward to this year’s edition.",
+    linkedIn: "https://www.linkedin.com/in/amelie-m%C3%BCller-b3003b20a/",
+    github: "https://github.com/muelleram",
+  },
 ]);
 </script>
 
