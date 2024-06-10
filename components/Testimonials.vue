@@ -83,6 +83,15 @@ const quotes = ref([
     linkedIn: "https://www.linkedin.com/in/amelie-m%C3%BCller-b3003b20a/",
     github: "https://github.com/muelleram",
   },
+  {
+    name: "Tapajyoti Ghosh",
+    designation: "Research Engineer IV, Environmental Engineer at National Renewable Energy Laboratory",
+    reviewtitle: "",
+    imgUrl: "/images/participants/tj.jpg",
+    reviewMore:"Attending Brightcon 2023 was an enlightening experience that exceeded all my expectations. As someone deeply interested in life cycle assessment (LCA) and environmental sustainability, I was particularly thrilled by the hands-on sessions focused on Brightway2 and its associated tools. One of the highlights was the opportunity to work on real-world datasets and scenarios. This practical approach provided invaluable insights into how Brightway2 can be utilized to tackle environmental challenges. We explored various tools and extensions, learning how to customize and optimize them for different projects. The collaborative environment fostered by Brightcon 2023 also facilitated networking and idea-sharing, further enriching the learning experience. An exciting addition to the conference was the introduction to prospective life cycle assessment using PREMISE. This tool allows for the integration of future scenarios into LCA, offering a forward-looking perspective on sustainability. This capability is crucial for strategic planning and decision-making, enabling practitioners to anticipate and mitigate future risks.",
+    linkedIn: "https://www.linkedin.com/in/tapajyoti-ghosh-6ab66747/",
+    github: "https://github.com/tjlca/",
+  },
 ]);
 </script>
 
