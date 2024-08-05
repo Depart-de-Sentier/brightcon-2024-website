@@ -47,10 +47,13 @@
         catch basically all major lines of the public transport system.
       </li>
       <li>
-        ✈ By Plane. Hamburg Airport in Poppenbüttel is directly connected to
-        the city with the S-Bahn S1. The line spans from the Airport in the east
-        to the western part of Hamburg and passes Main Station as well as
-        Altona.
+        ✈ By Plane. Hamburg Airport (<a
+          href="https://www.hamburg-airport.de/en"
+          target="_blank"
+          >HAM</a
+        >) is directly connected to the city with the S-Bahn S1. The line spans
+        from the Airport in the east to the western part of Hamburg and passes
+        Main Station as well as Altona.
       </li>
       <li>
         🚗 By Car. There are two highways surrounding Hamburg: the A7 builds the
@@ -68,16 +71,17 @@
     walk to the Center itself (alongside the canal, it's cute).
     <ul>
       <li>
-        ⛴️ By ferry: We suggest Ferry 62, starting at S1, S3, U3 - Landungsbrücken,
-        departing in a 15-minute frequent. It's a 30-minute ride on the Elbe,
-        with stops at Fischmarkt, Dockland and Övelgönne (better option for
-        those coming from the Altona station).
+        ⛴️ By ferry: We suggest Ferry 62, starting at S1, S3, U3 -
+        Landungsbrücken, departing in a 15-minute frequent. It's a 30-minute
+        ride on the Elbe, with stops at Fischmarkt, Dockland and Övelgönne
+        (better option for those coming from the Altona station).
       </li>
 
       <li>
-        🚌 By bus: Bus 150 is starting in Altona going
-        through the Elbtunnel. Caution: depending on the time, this option is
-	not suggested due to frequent traffic jams. Public transport timetables are available from <a href="https://www.hvv.de/en">www.hvv.de/en</a>
+        🚌 By bus: Bus 150 is starting in Altona going through the Elbtunnel.
+        Caution: depending on the time, this option is not suggested due to
+        frequent traffic jams. Public transport timetables are available from
+        <a href="https://www.hvv.de/en">www.hvv.de/en</a>
       </li>
     </ul>
     <!-- 
