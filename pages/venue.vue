@@ -77,7 +77,7 @@
       <li>
         🚌 By bus: Bus 150 is starting in Altona going
         through the Elbtunnel. Caution: depending on the time, this option is
-	not suggested due to frequent traffic jams. Public transport timetables are available from <a href="www.hvv.de/en">www.hvv.de/en</a>
+	not suggested due to frequent traffic jams. Public transport timetables are available from <a href="https://www.hvv.de/en">www.hvv.de/en</a>
       </li>
     </ul>
     <!-- 
