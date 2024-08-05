@@ -70,7 +70,12 @@
       </div>
     </div>
     <div class="row col is-vertical-align is-horizontal-align">
-      <NuxtLink to="/programme" class="button secondary">Programme</NuxtLink>
+      <NuxtLink to="/programme" class="button secondary icon"
+        >Programme
+        <img
+          src="https://icongr.am/clarity/calendar.svg?size=16&amp;color=ffffff"
+          alt="icon"
+      /></NuxtLink>
       <NuxtLink to="/calls" class="button primary icon"
         >Calls
         <img
