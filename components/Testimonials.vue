@@ -3,7 +3,12 @@
     <h2>Testimonials from Brightcon 2023</h2>
     <div class="row">
       <div class="col">
-        <carousel :items-to-show="1" :autoplay="4500">
+        <carousel
+          :items-to-show="1"
+          :autoplay="6000"
+          :pauseAutoplayOnHover="true"
+          :transistion="1600"
+        >
           <slide v-for="q in quotes" :key="q.name">
             <div class="card">
               <header>
