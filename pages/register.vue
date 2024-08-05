@@ -17,8 +17,11 @@
       </div>
       -->
       <div class="row col is-horizontal-align is-vertical-align">
-        <a href="" class="button primary disabled"
-          >Registration will open soon</a
+        <a href="https://events.d-d-s.ch/event/brightcon2024/registration" class="button primary"
+          >Registration (in-person)</a
+        >
+        <a href="https://events.d-d-s.ch/event/brightcon2024virtual/registration" class="button primary"
+          >Registration (virtual)</a
         >
       </div>
 
@@ -36,33 +39,33 @@
       <table>
         <tr>
           <th>Dates</th>
-          <th>Price (excl VAT)</th>
+          <th>Price (€ excl VAT)</th>
         </tr>
         <tr>
-          <td>September 23 - September 27 <b>TBC</b></td>
-          <td>TBC</td>
+          <td>September 23 - September 27</td>
+          <td>420</td>
         </tr>
       </table>
       <h3>Conference only <i> in person</i></h3>
       <table>
         <tr>
           <th>Dates</th>
-          <th>Price (excl VAT)</th>
+          <th>Price (€ excl VAT)</th>
         </tr>
         <tr>
-          <td>September 25 - September 27<b>TBC</b></td>
-          <td>TBC</td>
+          <td>September 25 - September 27</td>
+          <td>350</td>
         </tr>
       </table>
       <h3>Conference only <i> on-line</i></h3>
       <table>
         <tr>
           <th>Dates</th>
-          <th>Price (excl VAT)</th>
+          <th>Price (€ excl VAT)</th>
         </tr>
         <tr>
-          <td>September 25 - September 27<b>TBC</b></td>
-          <td>TBC</td>
+          <td>September 25 - September 27</td>
+          <td>100 (institutional discounts available)</td>
         </tr>
         <tr>
           <td></td>

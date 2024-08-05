@@ -25,21 +25,14 @@
             </div>
             <div class="row is-center">
               <br />
-              <p>
-                <a href="https://www.dlr.de">
-                  Deutsches Zentrum für Luft- und Raumfahrt
-                  <!--
-				<NuxtImg
-				format="webp"
-				class="logo-img"
-				src="/images/dlr-logo.svg"
-				alt="German Aerospace Center"
-				/>
-				-->
-                  <br />
-                  (German Aerospace Center)
-                </a>
-              </p>
+              <a href="https://www.dlr.de">
+                <NuxtImg
+                  format="webp"
+                  class="logo-img"
+                  src="/images/DLR_logo_DE_bw.jpg"
+                  alt="German Aerospace Center"
+                />
+              </a>
             </div>
           </div>
         </div>
@@ -164,7 +157,7 @@
           </div>
         </div>
         <div>
-          <b>Follow us on twitter</b>
+          <b>Follow us on X</b>
         </div>
         <div class="row text-left">
           <div class="col">

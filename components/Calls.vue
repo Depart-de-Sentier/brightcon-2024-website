@@ -2,106 +2,51 @@
   <div class="container">
     <div>
       <h1>Calls</h1>
-      <h2>Call for posters</h2>
-      If you have something to show in the form of a poster, bring the poster
-      with you !
-      <h2>Call for sessions</h2>
+      <h2>🌟 Call for Contributions: Brightcon 2024 🌟</h2>
 
       <p>
         You can submit your own Brightcon 2024 idea for an interactive session:
-        workshop, presentation, you name it.
+        workshop, presentation, poster, you name it.
       </p>
-      <p>Stay tuned for the upcoming call and details.</p>
-    </div>
-    <div>
-      <h2>
-        Call for a (student) volunteer to set up the virtual platform for this
-        years’ hybrid Brightcon
-      </h2>
-      <details open>
-        <p>
-          We are dedicated to make Brightcon 2024 a successful hybrid conference
-          with high-level experience for both the virtual and the physical
-          attendees. We are seeking a motivated and tech-savy volunteer or
-          student to assist in setting up the virtual platform which will be the
-          basis for this success. This exciting opportunity will provide you
-          with valuable experience in working with a cutting-edge conference
-          tool, besides contributing to the core of the success of Brightcon
-          2024.
-        </p>
+      <p>This year’s theme is "Innovating Open Sustainability."</p>
+      <p>
+        We invite submissions for talks, demonstrations, workshops, posters, and
+        special sessions that highlight the integration of software development
+        and sustainability. We encourage contributions from domains such as LCA,
+        MFA, IO, and Industrial Ecology.
+      </p>
+      <p>
+        Show us how you have applied open source tools in your industry or
+        research project, introduce a novel open source tool for sustainability
+        to us which you have developed, or showcase a new library/package which
+        could be useful for others.
+      </p>
 
-        <p class="text-primary">Your responsibilities</p>
-
-        <ul>
-          <li>
-            Follow the introduction by the platform owners and familiarize
-            yourself with the platform.
-          </li>
-          <li>
-            Collaborate with the organizational committee to formulate the
-            specific requirements of the Brightcon platform
-          </li>
-          <li>
-            Customize and personalize the platform to meet these requirements.
-          </li>
-          <li>
-            Set up and configure the virtual platform for the conference,
-            ensuring smooth navigation and functionality supporting the success
-            of the hybrid conference.
-          </li>
-          <li>
-            Conduct thorough testing and troubleshooting to ensure optimal
-            performance.
-          </li>
-        </ul>
-        <p class="text-primary">
-          Eventually, if you want to participate at Brightcon
-        </p>
-        <ul>
-          <li>
-            Provide technical support to conference attendees during the event
-          </li>
-          <li>Assist in managing the hybrid/virtual sessions</li>
-          <li>
-            At least provide virtual support during the conference in case any
-            issues arise.
-          </li>
-        </ul>
-
-        We expect all this to be a workload of ca. 2 weeks before the
+      <p>
+        We especially want to invite contributions from online attendees of the
         conference.
-
-        <p class="text-primary">What you bring</p>
-        <ul>
-          <li>
-            Motivation to make the hybrid Brightcon 2024 a special experience
-          </li>
-          <li>
-            Availability to dedicate a significant portion of the required
-            set-up time in August, and availability in September
-          </li>
-          <li>
-            Flexibility to provide at least virtual support during the
-            conference for any last-minute technical issues
-          </li>
-          <li></li>
-        </ul>
-        <p class="text-primary">
-          We can remunerate you with a payment of EUR 500.
-        </p>
-        You will gain hands-on experience with a prominent virtual conference
-        platform.
-
-        <p>
-          If you are interested in this opportunity, please send a brief
-          statement of your background (relevant experience and skills) and
-          motivation to karin.treyer@psi.ch.
-        </p>
-        <p>
-          We look forward to working together to set up a virtual platform which
-          will support our hybrid conference goals fully!
-        </p>
-      </details>
+      </p>
+      <p>
+        Submit your contribution using the
+        <a
+          href="https://events.d-d-s.ch/applications/create/brightcon-2024-call-for-contributions/"
+          target="_blank"
+        >
+          dedicated Depart-de-Sentier platform</a
+        >
+      </p>
+      <div class="row col is-vertical-align is-horizontal-align">
+        <a
+          href="https://events.d-d-s.ch/applications/create/brightcon-2024-call-for-contributions/"
+          class="button primary icon"
+        >
+          submit contribution
+          <img
+            src="https://icongr.am/clarity/wand.svg?size=16&amp;color=ffffff"
+            alt="icon"
+          />
+        </a>
+      </div>
     </div>
   </div>
 </template>

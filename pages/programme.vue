@@ -3,7 +3,23 @@
     <div>
       <h1>Programme for Brightcon 2024</h1>
 
-      <i> To be confirmed ... </i>
+      <div class="card">
+        <header>
+          <h2>Hackathon 🛠️</h2>
+        </header>
+        <p>
+          We will gather to tackle different challenges, in a hackathon mode.
+        </p>
+        <footer class="is-right">September 23rd - September 24th 2024</footer>
+      </div>
+      <br/>
+      <div class="card">
+        <header>
+          <h2>Conference 📢</h2>
+        </header>
+        <p>Our interactive gathering.</p>
+        <footer class="is-right">September 25rd - September 27th 2024</footer>
+      </div>
     </div>
   </div>
 </template>

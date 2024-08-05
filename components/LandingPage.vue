@@ -32,8 +32,12 @@
           </div>
           <div class="row is-horizontal-align">
             <div>
-              <NuxtLink to="/register" class="button primary">
-                <span>Register</span>
+              <NuxtLink to="/register" class="button primary icon">
+                <span>Register </span>
+                <img
+                  src="https://icongr.am/feather/credit-card.svg?size=16&amp;color=ffffff"
+                  alt="register"
+                />
               </NuxtLink>
             </div>
 
@@ -66,7 +70,19 @@
       </div>
     </div>
     <div class="row col is-vertical-align is-horizontal-align">
-      <NuxtLink to="/programme" class="button secondary"> Programme </NuxtLink>
+      <NuxtLink to="/programme" class="button secondary icon"
+        >Programme
+        <img
+          src="https://icongr.am/clarity/calendar.svg?size=16&amp;color=ffffff"
+          alt="icon"
+      /></NuxtLink>
+      <NuxtLink to="/calls" class="button primary icon"
+        >Calls
+        <img
+          src="https://icongr.am/clarity/wand.svg?size=16&amp;color=ffffff"
+          alt="icon"
+        />
+      </NuxtLink>
     </div>
   </div>
 </template>
