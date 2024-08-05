@@ -26,7 +26,7 @@
                 />
               </div>
               <div>
-                <footer class="is-left">
+                <footer class="is-center">
                   <div v-if="q.github">
                     <a
                       class="button clear outline is-paddingless icon-only"
