@@ -1,5 +1,6 @@
 <template>
   <div>
+    <br />
     <LandingPage />
     <br />
     <Testimonials />
@@ -7,4 +8,4 @@
     <PrevCar />
     <br />
   </div>
-</template>
+</template
