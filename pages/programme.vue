@@ -1,29 +1,28 @@
 <template>
   <div class="container">
     <div>
-      <h1>Programme for Brightcon 2024</h1>
+      <h1>Tentative Programme for Brightcon 2024</h1>
 
       <div class="card">
         <header>
-          <h2>Hackathon 🛠️</h2>
+          <h2>Hackathon 🛠️ - September 23rd - 24th</h2>
         </header>
         <p>
           We will gather to tackle different challenges, in a hackathon mode.
         </p>
-        <footer class="is-right">September 23rd - September 24th 2024</footer>
+      <ContentDoc path="/agenda/hackathon" />
       </div>
-      <br/>
+      <br />
       <div class="card">
         <header>
-          <h2>Conference 📢</h2>
+          <h2>Conference 📢 - September 25th - 27th</h2>
         </header>
         <p>Our interactive gathering.</p>
-        <footer class="is-right">September 25rd - September 27th 2024</footer>
+      <ContentDoc path="/agenda/conference" />
       </div>
     </div>
   </div>
 </template>
-
 <style scoped>
 .styled-table {
   border-collapse: collapse;
