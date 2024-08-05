@@ -1,53 +1,59 @@
 <template>
   <div class="container">
     <h2>Testimonials from Brightcon 2023</h2>
-    <div v-for="q in quotes" :key="q.name">
-      <div class="row">
-        <div class="col">
-          <div class="card">
-            <header>
-              <h4>
-                <NuxtLink :to="q.linkedIn">{{ q.name }} </NuxtLink>
-              </h4>
-              <h5>{{ q.designation }}</h5>
-            </header>
-            <p>
-              <i>{{ q.reviewMore }} </i>
-            </p>
-            <div class="imgbox" v-if="q.imgUrl">
-              <NuxtImg
-                :src="q.imgUrl"
-                alt=""
-                format="webp"
-                fit="cover"
-                width="64"
-                height="64"
-              />
-            </div>
-            <div>
-              <footer class="is-left">
-                <div v-if="q.github">
+    <div class="row">
+      <div class="col">
+        <carousel :items-to-show="1" :autoplay="4500">
+          <slide v-for="q in quotes" :key="q.name">
+            <div class="card">
+              <header>
+                <h4>
+                  <NuxtLink :to="q.linkedIn">{{ q.name }} </NuxtLink>
+                </h4>
+                <h5>{{ q.designation }}</h5>
+              </header>
+              <p>
+                <i>{{ q.reviewMore }} </i>
+              </p>
+              <div class="imgbox" v-if="q.imgUrl">
+                <NuxtImg
+                  :src="q.imgUrl"
+                  alt=""
+                  format="webp"
+                  fit="cover"
+                  width="64"
+                  height="64"
+                />
+              </div>
+              <div>
+                <footer class="is-left">
+                  <div v-if="q.github">
+                    <a
+                      class="button clear outline is-paddingless icon-only"
+                      :href="q.github"
+                      rel="noopener"
+                      target="__blank"
+                    >
+                      <github-icon />
+                    </a>
+                  </div>
                   <a
                     class="button clear outline is-paddingless icon-only"
-                    :href="q.github"
+                    :href="q.linkedIn"
                     rel="noopener"
                     target="__blank"
                   >
-                    <github-icon />
+                    <linked-in-icon></linked-in-icon>
                   </a>
-                </div>
-                <a
-                  class="button clear outline is-paddingless icon-only"
-                  :href="q.linkedIn"
-                  rel="noopener"
-                  target="__blank"
-                >
-                  <linked-in-icon></linked-in-icon>
-                </a>
-              </footer>
+                </footer>
+              </div>
             </div>
-          </div>
-        </div>
+          </slide>
+          <template #addons>
+            <navigation />
+            <pagination />
+          </template>
+        </carousel>
       </div>
     </div>
   </div>
@@ -76,19 +82,23 @@ const quotes = ref([
   },
   {
     name: "Amelie MÜLLER",
-    designation: "PhD Candidate, Industrial Ecology at Leiden University and VITO",
+    designation:
+      "PhD Candidate, Industrial Ecology at Leiden University and VITO",
     reviewtitle: "",
     imgUrl: "/images/participants/amelie-muller.jpg",
-    reviewMore:"Attending Brightcon 2023 has been fantastic as it is the meeting place for LCA researchers working with open-source tools in python, such as Brightway. In fact, one of my current projects has been significantly inspired by the discussions at Brightcon and I met my current collaborators there. Brightcon is not your usual conference – it’s very hands-on, low-hierarchy and living its sustainable mission by serving only vegetarian/vegan food. I’m highly looking forward to this year’s edition.",
+    reviewMore:
+      "Attending Brightcon 2023 has been fantastic as it is the meeting place for LCA researchers working with open-source tools in python, such as Brightway. In fact, one of my current projects has been significantly inspired by the discussions at Brightcon and I met my current collaborators there. Brightcon is not your usual conference – it’s very hands-on, low-hierarchy and living its sustainable mission by serving only vegetarian/vegan food. I’m highly looking forward to this year’s edition.",
     linkedIn: "https://www.linkedin.com/in/amelie-m%C3%BCller-b3003b20a/",
     github: "https://github.com/muelleram",
   },
   {
     name: "Tapajyoti Ghosh",
-    designation: "Research Engineer IV, Environmental Engineer at National Renewable Energy Laboratory",
+    designation:
+      "Research Engineer IV, Environmental Engineer at National Renewable Energy Laboratory",
     reviewtitle: "",
     imgUrl: "/images/participants/tj.jpg",
-    reviewMore:"Attending Brightcon 2023 was an enlightening experience that exceeded all my expectations. As someone deeply interested in life cycle assessment (LCA) and environmental sustainability, I was particularly thrilled by the hands-on sessions focused on Brightway2 and its associated tools. One of the highlights was the opportunity to work on real-world datasets and scenarios. This practical approach provided invaluable insights into how Brightway2 can be utilized to tackle environmental challenges. We explored various tools and extensions, learning how to customize and optimize them for different projects. The collaborative environment fostered by Brightcon 2023 also facilitated networking and idea-sharing, further enriching the learning experience. An exciting addition to the conference was the introduction to prospective life cycle assessment using PREMISE. This tool allows for the integration of future scenarios into LCA, offering a forward-looking perspective on sustainability. This capability is crucial for strategic planning and decision-making, enabling practitioners to anticipate and mitigate future risks.",
+    reviewMore:
+      "Attending Brightcon 2023 was an enlightening experience that exceeded all my expectations. As someone deeply interested in life cycle assessment (LCA) and environmental sustainability, I was particularly thrilled by the hands-on sessions focused on Brightway2 and its associated tools. One of the highlights was the opportunity to work on real-world datasets and scenarios. This practical approach provided invaluable insights into how Brightway2 can be utilized to tackle environmental challenges. We explored various tools and extensions, learning how to customize and optimize them for different projects. The collaborative environment fostered by Brightcon 2023 also facilitated networking and idea-sharing, further enriching the learning experience. An exciting addition to the conference was the introduction to prospective life cycle assessment using PREMISE. This tool allows for the integration of future scenarios into LCA, offering a forward-looking perspective on sustainability. This capability is crucial for strategic planning and decision-making, enabling practitioners to anticipate and mitigate future risks.",
     linkedIn: "https://www.linkedin.com/in/tapajyoti-ghosh-6ab66747/",
     github: "https://github.com/tjlca/",
   },
