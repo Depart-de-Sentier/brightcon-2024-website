@@ -64,6 +64,11 @@ const routesGroup = [
     name: "This year",
     routes: [
       {
+        label: "About Brightcon",
+        url: "/aboutbc",
+        external: false,
+      },
+      {
         label: "Programme",
         url: "/programme",
         external: false,

@@ -25,6 +25,9 @@
       </div>
       <nav class="nav">
         <div class="nav-left">
+          <NuxtLink to="/aboutbc" class="button success">
+            <span>About</span>
+          </NuxtLink>
           <NuxtLink to="/register" class="button primary icon">
             <span>Register </span>
             <img
@@ -48,23 +51,23 @@
         </div>
         <div class="nav-center"></div>
         <div class="nav-right">
-          <NuxtLink to="/venue" class="button dark"> Venue Details </NuxtLink>
+          <NuxtLink to="/venue" class="button dark">Venue</NuxtLink>
           <NuxtLink
             to="https://app.element.io/#/room/#brightway/brightcon:matrix.org"
             target="_blank"
             class="button secondary"
           >
-            Conference chat
+            Chat
           </NuxtLink>
           <NuxtLink
             to="https://app.element.io/#/room/#brightcon-tech:matrix.org"
             target="_blank"
             class="button seconday"
           >
-            Tech support
+            Support
           </NuxtLink>
           <NuxtLink to="/sponsoring" class="button outline">
-            Become Sponsor
+            Sponsoring
           </NuxtLink>
         </div>
       </nav>
