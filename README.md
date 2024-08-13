@@ -56,7 +56,7 @@ yarn build
 bun run build
 ```
 
-Locally preview production build:
+Locally preview production build [localhost:3000](http://localhost:3000):
 
 ```bash
 # npm
