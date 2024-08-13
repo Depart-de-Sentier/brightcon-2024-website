@@ -20,7 +20,6 @@
         <br />
         <NuxtImg
           src="/images/illustrations/undraw_teamwork_hpdk.svg"
-          format="svg"
           alt="hackathon+conference registration"
         />
         <footer>
@@ -39,7 +38,6 @@
         <br />
         <NuxtImg
           src="/images/illustrations/undraw_conference_re_2yld.svg"
-          format="svg"
           alt="in person registration"
         />
         <footer>
@@ -59,7 +57,6 @@
         <br />
         <NuxtImg
           src="/images/illustrations/undraw_conference_call_b0w6.svg"
-          format="svg"
           alt="on-line registration only"
         />
         <footer>
