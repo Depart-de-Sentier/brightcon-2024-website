@@ -8,9 +8,12 @@
     for civil aviation.
 
     <h2>Location</h2>
-    Brightcon 2024 will take place in the premises of the ZAL TechCenter of
-    <a href="https://www.dlr.de">German Aerospace Center</a> (Deutsches Zentrum
-    für Luft- und Raumfahrt; DLR) in <b>Hamburg</b>, Germany.
+    Brightcon 2024 will take place in the premises of the
+    <a href="https://zal.aero/en/directions/" target="_blank">
+      ZAL TechCenter
+    </a>
+    of German Aerospace Center (Deutsches Zentrum für Luft- und Raumfahrt, DLR)
+    in <b>Hamburg</b>, Germany.
 
     <div container>
       <a href="https://zal.aero/en/directions/">
@@ -18,14 +21,11 @@
           <div class="col-3">
             <div class="card">
               <header>
-                <a href="https://www.dlr.de">
-                  <NuxtImg
-                    format="webp"
-                    class="logo-img"
-                    src="/images/DLR_Logo_EN_black.jpg"
-                    alt="German Aerospace Center"
-                  />
-                </a>
+                <NuxtImg
+                  class="logo-img"
+                  src="/images/DLR_Logo_EN_black.svg"
+                  alt="German Aerospace Center"
+                />
               </header>
               <p>ZAL TechCenter</p>
               <p>Hein-Saß-Weg 22</p>
@@ -37,11 +37,6 @@
       </a>
     </div>
 
-    <!--
-
-    <h3>Conference location</h3>
-    The conference of Sept. 25-27 will be held on German Aerospace Center premises.
-    -->
     <h3>How to reach Hamburg</h3>
     <ul>
       <li>

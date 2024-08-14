@@ -45,7 +45,7 @@
       >Product Life Cycle Management (Institute of Maintenance, Repair and
       Overhaul Product Lifecycle Management Department (dlr.de)) </a
     >, and the research group of Energy Scenarios and Technology Assessment
-    (Institute of Networked Energy Systems link:
+    (Institute of Networked Energy Systems:
     <a
       href="https://www.dlr.de/en/ve/research-and-transfer/expertise/our-research-groups/energy-szenarios-and-technology-assessment"
       target="_blank"
