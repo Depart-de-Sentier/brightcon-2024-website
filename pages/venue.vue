@@ -1,6 +1,12 @@
 <template>
   <div class="container">
     <h1>Venue</h1>
+    <a href="https://zal.aero/en/zal-for-aviation/about/" target="_blank">
+      ZAL is one of the biggest aviation research hubs</a
+    >
+    in western Europe, a leading technological research and development platform
+    for civil aviation.
+
     <h2>Location</h2>
     Brightcon 2024 will take place in the premises of the ZAL TechCenter of
     <a href="https://www.dlr.de">German Aerospace Center</a> (Deutsches Zentrum
