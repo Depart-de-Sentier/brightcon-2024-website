@@ -29,7 +29,7 @@
                 <NuxtImg
                   format="webp"
                   class="logo-img"
-                  src="/images/DLR_logo_DE_bw.jpg"
+                  src="/images/DLR_Logo_EN_black.svg"
                   alt="German Aerospace Center"
                 />
               </a>
