@@ -111,6 +111,9 @@
               <li>
                 Antonia Rahn
                 <br />
+                Institute of Maintenance, Repair and Overhaul, German Aerospace
+                Center, Hamburg
+                <br />
                 <a
                   href="https://www.linkedin.com/in/antonia-rahn-3a6730162/"
                   rel="noopener"
@@ -121,6 +124,9 @@
               </li>
               <li>
                 Joana Albano
+                <br />
+                Institute of Maintenance, Repair and Overhaul, German Aerospace
+                Center, Hamburg
                 <br />
                 <a
                   href="https://www.linkedin.com/in/joana-albano-8a080175/"
@@ -133,6 +139,8 @@
               <li>
                 Rahul Ramesh Nair
                 <br />
+                Institute of Networked Energy Systems, German Aerospace Center
+                <br />
                 <a
                   href="https://www.linkedin.com/in/rahul-ramesh-nair/"
                   rel="noopener"
@@ -144,8 +152,24 @@
               <li>
                 Svenja Kirsch
                 <br />
+                Institute of Maintenance, Repair and Overhaul, German Aerospace
+                Center, Hamburg
+                <br />
                 <a
                   href="https://www.linkedin.com/in/svenja-kirsch-aa9778232/"
+                  rel="noopener"
+                  target="__blank"
+                >
+                  <linked-in-icon />
+                </a>
+              </li>
+              <li>
+                Urte Brand
+                <br />
+                Institute of Networked Energy Systems, German Aerospace Center
+                <br />
+                <a
+                  href="https://www.linkedin.com/in/dr-urte-brand-daniels-798a5260/"
                   rel="noopener"
                   target="__blank"
                 >
