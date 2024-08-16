@@ -27,7 +27,6 @@
               <br />
               <a href="https://www.dlr.de">
                 <NuxtImg
-                  format="webp"
                   class="logo-img"
                   src="/images/DLR_Logo_EN_black.svg"
                   alt="German Aerospace Center"
