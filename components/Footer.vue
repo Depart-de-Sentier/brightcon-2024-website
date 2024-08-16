@@ -40,7 +40,7 @@
           <b>Organizing committee</b>
         </div>
 
-        <div class="row">
+        <div class="row" >
           <div class="col is-center">
             <ul>
               <li>
@@ -139,7 +139,7 @@
               <li>
                 Rahul Ramesh Nair
                 <br />
-                Institute of Networked Energy Systems, German Aerospace Center
+                Institute of Networked Energy Systems, German Aerospace Center, Oldenburg
                 <br />
                 <a
                   href="https://www.linkedin.com/in/rahul-ramesh-nair/"
@@ -166,7 +166,7 @@
               <li>
                 Urte Brand
                 <br />
-                Institute of Networked Energy Systems, German Aerospace Center
+                Institute of Networked Energy Systems, German Aerospace Center, Oldenburg
                 <br />
                 <a
                   href="https://www.linkedin.com/in/dr-urte-brand-daniels-798a5260/"
