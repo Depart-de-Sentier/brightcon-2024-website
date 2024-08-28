@@ -3,6 +3,8 @@
     <br />
     <LandingPage />
     <br />
+    <OurPartners />
+    <br />
     <Testimonials />
     <br />
     <PrevCar />

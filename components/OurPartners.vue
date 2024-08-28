@@ -1,23 +1,30 @@
 <script setup lang="ts">
-const partnersEnabled = false;
-const partners = [];
+const partnersEnabled = true;
+const partners_gold = [
+  {
+    url: "https://ecoinvent.org",
+    imageSrc: "images/sponsors/ECO_Logo_standard_k.svg",
+    imageAlt: "Ecoinvent",
+    level: "Gold",
+  },
+];
 </script>
 <template>
   <div class="background">
     <div class="container">
-      <h1 class="text-center text-primary">Brightcon 2023 Partners</h1>
-      <div v-if="partners.length > 0 && partnersEnabled">
-        <h2>Strategic and Innovative Lead Partner</h2>
+      <h1 class="text-center text-primary">Brightcon 2024 Sponsors</h1>
+      <div v-if="partners_gold.length > 0 && partnersEnabled">
+        <h2 class="text-center text-primary">Gold</h2>
         <div
           class="row is-vertical-align is-horizontal-align bg-white with-padding text-dark"
         >
           <div
-            v-for="(s, index) in partners"
+            v-for="(s, index) in partners_gold"
             :key="index"
-            class="col-4-md card-container"
+            class="card-container"
           >
             <a :href="s.url" target="_blank">
-              <NuxtImg format="webp" :src="s.imageSrc" :alt="s.imageAlt" />
+              <NuxtImg :src="s.imageSrc" :alt="s.imageAlt" />
             </a>
           </div>
         </div>
@@ -29,7 +36,7 @@ const partners = [];
 <style scoped>
 .background {
   background-color: #ebf8f6;
-  padding: 2em;
+  padding: 1em;
 }
 .with-padding {
   padding: 1em;
