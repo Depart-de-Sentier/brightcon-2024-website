@@ -77,8 +77,12 @@
 <style scoped>
 .conftittle {
 	font-size: 2.8em;
+	font-family: Unbounded;
+	font-weight: 800;
 }
 .confsubtittle {
 	font-size: 1.4em;
+	font-family: Unbounded;
+	font-weight: 600;
 }
 </style>

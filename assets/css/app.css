@@ -1,3 +1,17 @@
 :root {
-    --color-primary: #da1d50; /* brand color */
+  --font-family-sans: "Instrument Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Instrument Sans";
+  font-weight: 700;
+}
+
+h2 {
+  font-family: "Instrument Sans";
+  font-weight: 600;
+}
+h3 {
+  font-family: "Instrument Sans";
+  font-weight: 500;
 }
