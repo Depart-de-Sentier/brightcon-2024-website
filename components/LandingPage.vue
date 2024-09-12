@@ -4,6 +4,11 @@
       <div class="col text-primary is-center">
         <h2><NuxtLink to="/register"> Registration is open !</NuxtLink></h2>
       </div>
+      <div class="col is-center text-primary bd-success">
+        <h2>
+          <NuxtLink to="/programme">👉Programme available now👈</NuxtLink>
+        </h2>
+      </div>
     </div>
     <div class="row ilust is-vertical-align">
       <!-- is-vertical-align is-horizontal-align hero"> -->
