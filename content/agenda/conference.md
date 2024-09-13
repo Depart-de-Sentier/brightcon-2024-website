@@ -36,8 +36,8 @@
 | Time       | Activity                                                             |
 |------------|----------------------------------------------------------------------|
 | 09:30-10:00| ecoinvent_interface and ecoinvent_migrate (*Chris Mutel*)            |
-| 10:00-10:15| Flowmapper: Current status and outlook (*Chris Mutel*)               |
-| 10:15-11:00| Flowmapper and randonneur: collaborative building session (*Everyone*)|
+| 10:00-10:45| PULPO: optimization and brightway (*Fabian Lechtenberg*)               |
+| 10:45-11:00| Flowmapper and randonneur: collaborative building session (*Everyone*)|
 | 11:00-12:00| Moderated discussion on the current state of data and software, and future plans|
 | 12:00-13:30| Lunch 🍲 🥗 🥤and poster session                                              |
 | 13:30-14:15| Hackathon results 🏁 (*Hackathon teams*)                                |
