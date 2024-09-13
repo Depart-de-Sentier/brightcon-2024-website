@@ -1,9 +1,6 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col text-primary is-center">
-        <h2><NuxtLink to="/register"> Registration is open !</NuxtLink></h2>
-      </div>
       <div class="col is-center text-primary bd-success">
         <h2>
           <NuxtLink to="/programme">👉Programme available now👈</NuxtLink>
@@ -14,7 +11,7 @@
       <!-- is-vertical-align is-horizontal-align hero"> -->
 
       <div class="col card">
-        <header>In person</header>
+        <header><b>Register</b> In person</header>
         <NuxtLink
           to="https://events.d-d-s.ch/event/brightcon2024/registration"
           target="_blank"
@@ -32,7 +29,7 @@
         </footer>
       </div>
       <div class="col card">
-        <header>In person</header>
+        <header><b>Register</b> In person</header>
         <NuxtLink
           to="https://events.d-d-s.ch/event/brightcon2024/registration"
           target="_blank"
@@ -50,7 +47,7 @@
         </footer>
       </div>
       <div class="col card">
-        <header>On-line</header>
+        <header><b>Register</b> On-line</header>
         <NuxtLink
           to="https://events.d-d-s.ch/event/brightcon2024virtual/registration"
           target="_blank"
