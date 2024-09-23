@@ -9,44 +9,8 @@
     </div>
     <div class="row ilust is-vertical-align">
       <!-- is-vertical-align is-horizontal-align hero"> -->
-
-      <div class="col card">
-        <header><b>Register</b> In person</header>
-        <NuxtLink
-          to="https://events.d-d-s.ch/event/brightcon2024/registration"
-          target="_blank"
-          class="button is-center"
-        >
-          <b>Hackathon + Conference </b>
-        </NuxtLink>
-        <br />
-        <NuxtImg
-          src="/images/illustrations/undraw_teamwork_hpdk.svg"
-          alt="hackathon+conference registration"
-        />
-        <footer>
-          <NuxtLink to="/register">fees and details ...</NuxtLink>
-        </footer>
-      </div>
-      <div class="col card">
-        <header><b>Register</b> In person</header>
-        <NuxtLink
-          to="https://events.d-d-s.ch/event/brightcon2024/registration"
-          target="_blank"
-          class="button is-center"
-        >
-          <b> Conference only </b>
-        </NuxtLink>
-        <br />
-        <NuxtImg
-          src="/images/illustrations/undraw_conference_re_2yld.svg"
-          alt="in person registration"
-        />
-        <footer>
-          <NuxtLink to="/register">fees and details ...</NuxtLink>
-        </footer>
-      </div>
-      <div class="col card">
+      <div class="col-4"></div>
+      <div class="col-4 card">
         <header><b>Register</b> On-line</header>
         <NuxtLink
           to="https://events.d-d-s.ch/event/brightcon2024virtual/registration"
@@ -54,7 +18,7 @@
           class="button is-center"
         >
           <b>Conference only </b>
-          <i> on-line</i>
+          <i>on-line</i>
         </NuxtLink>
         <br />
         <NuxtImg
