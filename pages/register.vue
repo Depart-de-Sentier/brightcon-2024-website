@@ -17,11 +17,10 @@
       </div>
       -->
       <div class="row col is-horizontal-align is-vertical-align">
-        <a href="https://events.d-d-s.ch/event/brightcon2024/registration" class="button primary"
-          >Registration (in-person)</a
-        >
-        <a href="https://events.d-d-s.ch/event/brightcon2024virtual/registration" class="button primary"
-          >Registration (virtual)</a
+        <a
+          href="https://events.d-d-s.ch/event/brightcon2024virtual/registration"
+          class="button primary"
+          >Registration (on-line)</a
         >
       </div>
 
