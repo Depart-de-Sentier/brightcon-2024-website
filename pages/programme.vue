@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1>Tentative Programme for Brightcon 2024</h1>
+      <h1>Programme for Brightcon 2024</h1>
 
       <div class="card">
         <header>

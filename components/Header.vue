@@ -28,26 +28,30 @@
           <NuxtLink to="/aboutbc" class="button success">
             <span>About</span>
           </NuxtLink>
-          <NuxtLink to="/register" class="button primary icon">
-            <span>Register </span>
-            <img
-              src="https://icongr.am/feather/credit-card.svg?size=16&amp;color=ffffff"
-              alt="register"
-            />
-          </NuxtLink>
+          <!--
+            <NuxtLink to="/register" class="button primary icon">
+              <span>Register </span>
+              <img
+                src="https://icongr.am/feather/credit-card.svg?size=16&amp;color=ffffff"
+                alt="register"
+              />
+            </NuxtLink>
+          -->
           <NuxtLink to="/programme" class="button primary icon"
             >Programme
             <img
               src="https://icongr.am/clarity/calendar.svg?size=16&amp;color=ffffff"
               alt="icon"
           /></NuxtLink>
-          <NuxtLink to="/calls" class="button primary icon"
-            >Calls
-            <img
-              src="https://icongr.am/clarity/wand.svg?size=16&amp;color=ffffff"
-              alt="icon"
-            />
-          </NuxtLink>
+          <!--
+            <NuxtLink to="/calls" class="button primary icon"
+              >Calls
+              <img
+                src="https://icongr.am/clarity/wand.svg?size=16&amp;color=ffffff"
+                alt="icon"
+              />
+            </NuxtLink>
+          -->
         </div>
         <div class="nav-center"></div>
         <div class="nav-right">
@@ -66,9 +70,11 @@
           >
             Support
           </NuxtLink>
-          <NuxtLink to="/sponsoring" class="button outline">
-            Sponsoring
-          </NuxtLink>
+          <!--
+            <NuxtLink to="/sponsoring" class="button outline">
+              Sponsoring
+            </NuxtLink>
+          -->
         </div>
       </nav>
     </div>

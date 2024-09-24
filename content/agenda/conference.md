@@ -7,10 +7,10 @@
 | 11:00-12:00| The Sentier.dev vocabulary: Overview and collaborative building session (*Everyone*)|
 | 12:00-13:30| Lunch 🍲 🥗 🥤and poster session                                              |
 | 13:30-14:00| Estimating material composition of consumer goods (*Levon Amatuni*)   |
-| 14:00-14:30| LCAx - Building a Digital Backbone for Whole Project LCAs (*Christian Kongsgaard*)|
-| 14:30-15:00| Brightway importer for environmentally extended Input-Output tables (*Miguel F. Astudillo*)|
-| 15:00-15:30| Break ☕️                                                             |
-| 15:30-16:00| Webapp creation with Panel and Brightway documentation upgrades (*Michael P. Weinold*)               |
+| 14:00-14:30| Brightway importer for environmentally extended Input-Output tables (*Miguel F. Astudillo*)|
+| 14:30-14:45| Brightway: What to expect in 2025  (*Chris Mutel*) |
+| 14:45-15:15| Break ☕️                                                             |
+| 15:15-16:00| Webapp creation with Panel and Brightway documentation upgrades (*Michael P. Weinold*)               |
 | 16:00-17:00| Help, I need somebody (*Everyone*)             |
 | 18:00-22:00| Social event 🍸🍹 : _vegan_ BBQ at [Strand Pauli](https://www.strandpauli.de/) (*Everyone*)             |
 
@@ -25,11 +25,11 @@
 | 12:00-13:30| Lunch 🍲 🥗 🥤and poster session                                              |
 | 13:30-14:00| Activity Browser: Updates and outlook (*Bernhard Steubing, Marin Visscher, Marc van der Meide*)|
 | 14:00-14:30| Randonneur: Agnostic format and software for IE data transformations (*Chris Mutel*)|
-| 14:30-15:00 | bw_timex: Combining dynamic and prospective for time-explicit LCA (*Timo Diepers*) |
+| 14:30-15:00| bw_timex: Combining dynamic and prospective for time-explicit LCA (*Timo Diepers*) |
 | 15:00-15:10| 📣 Special announcement 📣                               |
 | 15:10-15:30| Break ☕️                                                            |
 | 15:30-16:00| Multifunctionality (*Chris Mutel*)                                    |
-| 16:00-17:00| Départ de Sentier extraordinary General Assembly (*Everyone❕*)         |
+| 16:00-17:00| Départ de Sentier information and feedback session (*DdS members and Brightcon attendees*)         |
 
 
 ### Friday September 27th, 2024
