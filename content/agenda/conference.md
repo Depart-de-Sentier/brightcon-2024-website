@@ -13,6 +13,7 @@
 | 15:00-15:30| Break ☕️                                                             |
 | 15:30-16:00| Webapp creation with Panel and Brightway documentation upgrades (*Michael P. Weinold*)               |
 | 16:00-17:00| Help, I need somebody (*Everyone*)             |
+| 18:00-22:00| Social event 🍸🍹 : _vegan_ BBQ at [Strand Pauli](https://www.strandpauli.de/) (*Everyone*)             |
 
 ### Thursday September 26th, 2024
 
