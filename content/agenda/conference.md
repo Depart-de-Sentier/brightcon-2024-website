@@ -10,8 +10,8 @@
 | 13:40-14:10| Estimating material composition of consumer goods (*Levon Amatuni*)   |
 | 14:10-14:40| Brightway importer for environmentally extended Input-Output tables (*Miguel F. Astudillo*)|
 | 14:40-14:55| Brightway: What to expect in 2025  (*Chris Mutel*) |
-| 14:55-15:25| Break ☕️                                                             |
-| 15:25-16:10| Webapp creation with Panel and Brightway documentation upgrades (*Michael P. Weinold*)               |
+| 14:55-15:30| Break ☕️                                                             |
+| 15:30-16:10| Webapp creation with Panel and Brightway documentation upgrades (*Michael P. Weinold*)               |
 | 16:10-17:00| Help, I need somebody (*Everyone*)             |
 | 18:00-22:00| Social event 🍸🍹 : _vegetarian_/_vegan_ BBQ at [Strand Pauli](https://www.strandpauli.de/) (*Everyone*)             |
 
