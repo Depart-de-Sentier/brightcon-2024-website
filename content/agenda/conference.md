@@ -6,12 +6,13 @@
 | 10:30-11:00| The Sentier.dev platform concept and requirements (*Chris Mutel*) |
 | 11:00-12:00| The Sentier.dev vocabulary: Overview and collaborative building session (*Everyone*)|
 | 12:00-13:30| Lunch 🍲 🥗 🥤and poster session                                              |
-| 13:30-14:00| Estimating material composition of consumer goods (*Levon Amatuni*)   |
-| 14:00-14:30| Brightway importer for environmentally extended Input-Output tables (*Miguel F. Astudillo*)|
-| 14:30-14:45| Brightway: What to expect in 2025  (*Chris Mutel*) |
-| 14:45-15:15| Break ☕️                                                             |
-| 15:15-16:00| Webapp creation with Panel and Brightway documentation upgrades (*Michael P. Weinold*)               |
-| 16:00-17:00| Help, I need somebody (*Everyone*)             |
+| 13:30-13:40| Technical challenges
+| 13:40-14:10| Estimating material composition of consumer goods (*Levon Amatuni*)   |
+| 14:10-14:40| Brightway importer for environmentally extended Input-Output tables (*Miguel F. Astudillo*)|
+| 14:40-14:55| Brightway: What to expect in 2025  (*Chris Mutel*) |
+| 14:55-15:25| Break ☕️                                                             |
+| 15:25-16:10| Webapp creation with Panel and Brightway documentation upgrades (*Michael P. Weinold*)               |
+| 16:10-17:00| Help, I need somebody (*Everyone*)             |
 
 ### Thursday September 26th, 2024
 
