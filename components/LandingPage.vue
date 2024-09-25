@@ -6,6 +6,11 @@
           <NuxtLink to="/programme">👉Programme available now👈</NuxtLink>
         </h2>
       </div>
+      <div class="col is-center text-primary bd-success">
+        <h2>
+          <NuxtLink to="https://github.com/Depart-de-Sentier/brightcon-2024-material" target="_blank">📗 Conference Material 📓 </NuxtLink>
+        </h2>
+      </div>
     </div>
     <div class="row ilust is-vertical-align">
       <!-- is-vertical-align is-horizontal-align hero"> -->
