@@ -12,29 +12,6 @@
         </h2>
       </div>
     </div>
-    <div class="row ilust is-vertical-align">
-      <!-- is-vertical-align is-horizontal-align hero"> -->
-      <div class="col-4"></div>
-      <div class="col-4 card">
-        <header><b>Register</b> On-line</header>
-        <NuxtLink
-          to="https://events.d-d-s.ch/event/brightcon2024virtual/registration"
-          target="_blank"
-          class="button is-center"
-        >
-          <b>Conference only </b>
-          <i>on-line</i>
-        </NuxtLink>
-        <br />
-        <NuxtImg
-          src="/images/illustrations/undraw_conference_call_b0w6.svg"
-          alt="on-line registration only"
-        />
-        <footer>
-          <NuxtLink to="/register">fees and details ...</NuxtLink>
-        </footer>
-      </div>
-    </div>
     <div class="row">
       <div class="col hide-xs hide-sm text-right text-grey">
         <div class="">
