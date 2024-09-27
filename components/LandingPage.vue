@@ -1,15 +1,25 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col is-center text-primary bd-success">
+      <div class="col is-center text-primary bd-success card">
         <h2>
-          <NuxtLink to="/programme">👉Programme available now👈</NuxtLink>
+          <NuxtLink
+            to="https://github.com/Depart-de-Sentier/brightcon-2024-material"
+            target="_blank"
+            >📗 Conference Material 📓
+          </NuxtLink>
         </h2>
-      </div>
-      <div class="col is-center text-primary bd-success">
-        <h2>
-          <NuxtLink to="https://github.com/Depart-de-Sentier/brightcon-2024-material" target="_blank">📗 Conference Material 📓 </NuxtLink>
-        </h2>
+        <br />
+        <div>
+          All the different hackathon, talks and posters are available in the
+          github repository
+          <a
+            href="https://github.com/Depart-de-Sentier/brightcon-2024-material"
+            target="_blank"
+          >
+            brightcon-2024-material
+          </a>
+        </div>
       </div>
     </div>
     <div class="row">
