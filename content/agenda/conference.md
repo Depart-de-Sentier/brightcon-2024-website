@@ -37,9 +37,9 @@
 
 | Time       | Activity                                                             |
 |------------|----------------------------------------------------------------------|
-| 09:30-10:00| A new SimaPro CSV importer (*Chris Mutel*)                            |
-| 10:00-10:45| PULPO: optimization and brightway (*Fabian Lechtenberg*)               |
-| 10:45-11:00| Flowmapper: Current status and future (*Chris Mutel*)|
+| 09:30-10:15| A new SimaPro CSV importer (*Chris Mutel*)                            |
+| 10:15-11:00| PULPO: optimization and brightway (*Fabian Lechtenberg*)               |
+| | Flowmapper: Current status and future (Talk cancelled, notebook will be added) |
 | 11:00-12:00| Moderated discussion on the current state of data and software, and future plans (*Joana Albano*) |
 | 12:00-13:30| Lunch 🍲 🥗 🥤and poster session                                              |
 | 13:30-14:15| Hackathon results 🏁 (*Hackathon teams*)                                |
