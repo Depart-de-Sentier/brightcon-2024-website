@@ -3,16 +3,18 @@
     <div>
       <h1>Programme for Brightcon 2024</h1>
 
-      <div class="card">
-        <header>
-          <h2>Hackathon 🛠️ - September 23rd - 24th</h2>
-        </header>
-        <p>
-          We will gather to tackle different challenges, in a hackathon mode.
-        </p>
-      <ContentDoc path="/agenda/hackathon" />
-      </div>
-      <br />
+      <!--
+        <div class="card">
+          <header>
+            <h2>Hackathon 🛠️ - September 23rd - 24th</h2>
+          </header>
+          <p>
+            We will gather to tackle different challenges, in a hackathon mode.
+          </p>
+        <ContentDoc path="/agenda/hackathon" />
+        </div>
+        <br />
+      -->
       <div class="card">
         <header>
           <h2>Conference 📢 - September 25th - 27th</h2>
